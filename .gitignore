@@ -6,6 +6,11 @@
 /extension.dxt/server/index.js
 /build/slack-mcp-server-*
 /build/slack-mcp-server.dxt
+/npm/slack-mcp-server-*/bin/slack-mcp-server-*
+/npm/slack-mcp-server-*/.npmrc
+/npm/slack-mcp-server/.npmrc
+/npm/slack-mcp-server/LICENSE
+/npm/slack-mcp-server/README.md
 docker-compose.release.yml
 .vscode/settings.json
 build/extension.dxt
